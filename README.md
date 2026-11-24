@@ -52,3 +52,29 @@ dispensa-mvc/
 ## interface :
 ## Home:
 <img width="1500" height="823" alt="image" src="https://github.com/user-attachments/assets/038e40f8-cf04-4989-b8c9-eb238e6f9e4f" />
+## Atthecounter:
+<img width="1896" height="703" alt="image" src="https://github.com/user-attachments/assets/44f358be-2e72-4ea5-bf27-04d26abe33e2" />
+## Back Office:
+<img width="1575" height="673" alt="image" src="https://github.com/user-attachments/assets/10153e80-241c-4291-bb0c-baf0618b84b3" />
+## Roles:
+<img width="1888" height="697" alt="image" src="https://github.com/user-attachments/assets/f1279666-9795-4e5a-a941-d02f1ed6aee2" />
+## Sign in:
+<img width="1918" height="828" alt="image" src="https://github.com/user-attachments/assets/c9d46e30-62e1-4abf-bdd3-0da8ee2c3b4e" />
+## Admin Panel :
+<img width="1897" height="822" alt="image" src="https://github.com/user-attachments/assets/7a27c821-b3d4-4c69-8073-e523a25a21eb" />
+<img width="1902" height="826" alt="image" src="https://github.com/user-attachments/assets/0acf3818-4f6c-4b15-9408-4888fe79d187" />
+<img width="1897" height="832" alt="image" src="https://github.com/user-attachments/assets/53398858-5753-4650-938e-783d4485500c" />
+<img width="1899" height="823" alt="image" src="https://github.com/user-attachments/assets/f84b2643-8688-4a92-89c6-1b4612cdf5ad" />
+<img width="1902" height="823" alt="image" src="https://github.com/user-attachments/assets/e1a5bd36-9122-42e7-a9aa-3a0f2d083013" />
+<img width="1902" height="822" alt="image" src="https://github.com/user-attachments/assets/9ed07091-27ac-4f34-a96b-549d7b6599e4" />
+## Staff:
+<img width="1894" height="822" alt="image" src="https://github.com/user-attachments/assets/b59161a3-09d6-4a97-a7b1-d4acd95bdba5" />
+<img width="1897" height="829" alt="image" src="https://github.com/user-attachments/assets/926d08e6-ce65-40cf-a080-7c61f30935f9" />
+<img width="1888" height="831" alt="image" src="https://github.com/user-attachments/assets/4f9de349-f6c6-4608-8c34-6839addad50e" />
+<img width="1902" height="828" alt="image" src="https://github.com/user-attachments/assets/941fedf8-3182-4247-be99-46f5725c42cc" />
+<img width="1897" height="829" alt="image" src="https://github.com/user-attachments/assets/9c2f8e0d-755d-4e64-b91e-067a8bf60b79" />
+
+
+
+
+
