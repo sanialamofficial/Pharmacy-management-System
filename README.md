@@ -49,3 +49,6 @@ dispensa-mvc/
 - **Public Landing & Split Login:** Interactive search preview, 80mm receipt preview, and one-click demo accounts.
 - **Admin Console:** Today/Week/Month KPIs, 7-day revenue chart, low-stock & expiry bell popover with one-click restock, staff performance table, full inventory CRUD, staff management (add, suspend/reactivate, reset password, delete), sales ledger with CSV export, and Counter POS checkout.
 - **Staff Counter:** Scoped personal dashboard (`My dashboard`), hourly sales chart with team rank, `New bill` POS with `/` search shortcut, Rx verification guardrail, and `My sales` with 80mm thermal receipt reprint.
+## interface :
+## Home:
+<img width="1500" height="823" alt="image" src="https://github.com/user-attachments/assets/038e40f8-cf04-4989-b8c9-eb238e6f9e4f" />
